@@ -1,0 +1,15 @@
+#success {
+	color: greenyellow;
+}
+
+#error {
+	color: red;
+}
+
+.success {
+	color: greenyellow;
+}
+
+.error {
+	color: red;
+}
